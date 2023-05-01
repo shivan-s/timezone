@@ -1,7 +1,6 @@
 <div align="center">
-Timezone
+# Timezone
+[![Made with Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
 </div>
 
-## Usage
-
-This project is useful to determine different important timezones.
+This project is fun. It displays things related to time.
