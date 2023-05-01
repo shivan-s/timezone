@@ -1,6 +1,8 @@
 <h1 align=center>Timezone</h1>
-<div align="center">
-[![Made with Fresh](https://fresh.deno.dev/fresh-badge.svg)](https://fresh.deno.dev)
+<div align=center>
+<a href="https://fresh.deno.dev">
+   <img width="197" height="37" src="https://fresh.deno.dev/fresh-badge.svg" alt="Made with Fresh" />
+</a>
 </div>
 <hr />
 
