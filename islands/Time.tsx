@@ -87,7 +87,7 @@ export default function Time() {
       </table>
       <div class="p-4">
         <Button onClick={() => setClick(click + 1)}>Refresh</Button>
-    </div>
+      </div>
     </div >
   );
 }
